@@ -8,6 +8,7 @@
 t.me/darjagfx
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/ali-jafarib/)](https://www.linkedin.com/in/ali-jafarib/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darjagfx&layout=compact&theme=radical" width="500" />
 
 
