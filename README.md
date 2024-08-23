@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything possible
 - 📫 How to reach me:
 
-t.me/darjagfx
+https://t.me/darjagfx
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/ali-jafarib/)](https://www.linkedin.com/in/ali-jafarib/)
 
